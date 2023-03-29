@@ -1,0 +1,68 @@
+body{
+
+background-image: url("https://img-19.commentcamarche.net/W0b1LD2b0eN-vf_LEshhjAQmcXk=/1500x/smart/8174f462f0b44e169206ab81544d1f0f/ccmcms-commentcamarche/18863593.jpg");
+background-repeat: no-repeat;
+
+
+}
+
+h1 {
+text-shadow: 1px 1px 2px pink;
+margin-left: 900px;
+margin-top: 200px;
+font-variant-caps: all-small-caps;
+font-style: oblique;
+font-variant: no-contextual;
+-webkit-user-modify: read-write-plaintext-only;
+visibility: inherit;
+}
+
+p.thewitcher {
+
+    color: #ffffff;
+    margin-left: 932px;
+    text-decoration: underline;
+    font-style: oblique;
+    display: inherit;
+    cursor: col-resize;
+    -webkit-text-stroke-width: thin;
+    font-size: xxx-large;
+
+}
+
+p.tombraider {
+    color: #ffffff;
+    margin-left: 932px;
+    text-decoration: underline;
+    font-style: oblique;
+    display: inherit;
+    cursor: col-resize;
+    -webkit-text-stroke-width: thin;
+    font-size: xxx-large;
+
+
+}
+p.starwars{
+
+    color: #ffffff;
+    margin-left: 932px;
+    text-decoration: underline;
+    font-style: oblique;
+    display: inherit;
+    cursor: col-resize;
+    -webkit-text-stroke-width: thin;
+    font-size: xxx-large;
+
+}
+
+p.thelast {
+
+    color: #ffffff;
+    margin-left: 932px;
+    text-decoration: underline;
+    font-style: oblique;
+    display: inherit;
+    cursor: col-resize;
+    -webkit-text-stroke-width: thin;
+    font-size: xxx-large;
+}
